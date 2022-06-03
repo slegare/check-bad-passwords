@@ -1,9 +1,9 @@
 {
   "name": "check-bad-passwords",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Check if a password is listed in the 100,000 moslty used passwords.",
   "main": "index.js",
-  "repository": "git@github.com:slegare/nbp.git",
+  "repository": "git@github.com:slegare/check-bad-passwords.git",
   "author": "Sebastien Legare <slegare@gmail.com>",
   "license": "MIT"
 }
